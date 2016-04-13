@@ -141,7 +141,7 @@
 		background: #eee -ms-linear-gradient(top, rgba(255,255,255,.2) 0%,rgba(0,0,0,.2) 100%); /* IE10+ */
 		background: #eee linear-gradient(top, rgba(255,255,255,.2) 0%,rgba(0,0,0,.2) 100%); /* W3C */
 	  border: 1px solid #aaa;
-	  border-top: 1px solid #ccc;
+	  #border-top: 1px solid #ccc;
 	  border-left: 1px solid #ccc;
 	  padding: 4px 12px;
 	  -moz-border-radius: 3px;
