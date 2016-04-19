@@ -143,7 +143,7 @@ nav h1, nav h2 {
   border: none;
 }
 
-.sidebar {
+/*.sidebar {
   padding-top: 25px;
   font-family: "open sans", sans-serif;
 }
@@ -154,7 +154,7 @@ nav h1, nav h2 {
 
 .sidebar a {
   font-weight: 600;
-}
+}*/
 
 .content {
   font: 400 16px/22px "open sans", sans-serif;
